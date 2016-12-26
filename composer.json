@@ -1,0 +1,29 @@
+{
+    "name": "sunnysideup/tagfield_awesomplete",
+    "type": "silverstripe-module",
+    "description": "Basis JS based tag field using awesomplete",
+    "license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
+    "authors": [
+        {
+            "name": "Nicolaas Francken",
+            "email": "modules@sunnysideup.co.nz",
+            "role": "lead developer"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "~3.5"
+    },
+    "extra": {
+        "installer-name": "tagfield_awesomplete"
+    },
+    "keywords": [
+        "Silverstripe-CMS",
+        "CMS",
+        "Silverstripe",
+        "awesomplete",
+        "autocomplete",
+        "forms",
+        "fields",
+        "javascript"
+    ]
+}
