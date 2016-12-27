@@ -11,10 +11,15 @@
         }
     ],
     "require": {
-        "silverstripe/framework": "~3.5"
+        "silverstripe/framework": "~3.5",
+        "silverstripe/tagfield": "*",
+        "koala-framework/composer-extra-assets": "dev-master"
     },
     "extra": {
-        "installer-name": "tagfield_awesomplete"
+        "installer-name": "tagfield_awesomplete",
+        "require-bower": {
+            "awesomplete": "*"
+        }
     },
     "keywords": [
         "Silverstripe-CMS",
