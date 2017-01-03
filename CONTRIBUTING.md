@@ -1,4 +1,4 @@
-# Contributing to ecommerce orderstep feedback
+# Contributing to tagfield awesomplete
 
 Please read the
 [generic write up for contributing](https://docs.silverstripe.org/en/4.0/contributing/)
