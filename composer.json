@@ -2,7 +2,7 @@
     "name": "sunnysideup/tagfield_awesomplete",
     "type": "silverstripe-module",
     "description": "Basis JS based tag field using awesomplete",
-    "license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Nicolaas Francken",
